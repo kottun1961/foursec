@@ -1,0 +1,45 @@
+body{
+  background-image: url(img/gold_back.png);
+  margin: 0;
+  margin-top: 20px;
+}
+
+.header1{
+margin-top: 0;
+text-align: right;
+margin-right: 30px;
+}
+
+.header2{
+  margin-top: 0px;
+  text-align: center;
+  font-size: 70px;
+  color: #444444;
+  /* font-family: cursive; */
+  font-family: Lucida Calligraphy;
+}
+
+.list1 {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.list2 {
+  margin-top: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  color: #444444;
+  margin-bottom: 0;
+  font-size: 30px;
+  text-align: center;
+}
+
+.mes{
+  color: #444444;
+  margin-top: 0;
+  font-size: 23px;
+}
